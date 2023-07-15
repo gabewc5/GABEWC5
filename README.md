@@ -2,6 +2,6 @@
 
 
 - 🌱 I’m currently learning SQL & PM
-- 💬 Ask me about old folk & rock music
+- 💬 Ask me about old country folk & rock music
 - 📫 How to reach me: gabewc@berkeley.edu
 
